@@ -62,4 +62,4 @@ This project is part of my portfolio and demonstrates my skills in data analysis
 **Lamiya Miriyeva**  
 IT Student | Data Analytics & Backend Enthusiast  
 
-GitHub: https://github.com/USERNAME
+GitHub: https://github.com/Lamiya05
